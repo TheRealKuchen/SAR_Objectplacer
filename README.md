@@ -2,9 +2,9 @@
 
     Drag and drop the script into your server.
 
-    Add the items from items.lua to ox_inventory/data/items.lua.
+    Add the items to your inventory.
 
-    Add the images to ox_inventory/web/images.
+    Add the images to your inventory.
 
     Look in the config and change something if you want.
 
